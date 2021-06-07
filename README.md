@@ -6,7 +6,6 @@
 
 - 🛠️ I am working as a junior Devops-Engineer at [Bosch.IO GmbH](https://github.com/bosch-io).
 - 🔭: Graduated with a BSc in business-informatics at [DHBW Ravensburg](https://www.ravensburg.dhbw.de/startseite).
-- 🌱: I’m currently trying to get a better understanding of blockchain technologies and developing machine learning algorithms with python. (Go ahead, and check your buzzword-bingo chart 😄)
 
 **Languages and Tools:** 
 <p>
