@@ -4,7 +4,7 @@
 **About me:**
 <img width="50%" align="right" alt="Davids github stats" src="https://github-readme-stats.vercel.app/api?username=DerSchwilk&show_icons=true&hide_border=true" />
 
-- 🛠️ I am working as a junior Devops-Engineer at [Bosch.IO GmbH](https://github.com/bosch-io).
+- 🛠️ I am working as a Devops-Engineer at [Bosch.IO GmbH](https://github.com/bosch-io).
 - 🔭: Graduated with a BSc in business-informatics at [DHBW Ravensburg](https://www.ravensburg.dhbw.de/startseite).
 
 **Languages and Tools:** 
